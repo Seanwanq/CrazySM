@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\seanw\OneDrive\Files\Master EXPH\Master Year 1\Modeling and Simulation\homework\Week3_Exercise5\build\CMakeFiles\6b21678e896369069d57953bde954964\Experimental.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\seanw\OneDrive\Files\Master EXPH\Master Year 1\Modeling and Simulation\homework\Week3_Exercise5\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\seanw\OneDrive\Files\Master EXPH\Master Year 1\Modeling and Simulation\homework\Week3_Exercise5\build\CMakeFiles\Experimental" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FFA043C8-45B2-31FB-96FF-A00E9C0D17EB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

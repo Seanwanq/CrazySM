@@ -1,0 +1,10 @@
+^C:\USERS\SEANW\ONEDRIVE\FILES\MASTER EXPH\MASTER YEAR 1\MODELING AND SIMULATION\HOMEWORK\WEEK3_EXERCISE5\BUILD\CMAKEFILES\6B21678E896369069D57953BDE954964\GENERATE.STAMP.RULE
+setlocal
+C:\Users\seanw\scoop\apps\cmake\3.28.3\bin\cmake.exe "-SC:/Users/seanw/OneDrive/Files/Master EXPH/Master Year 1/Modeling and Simulation/homework/Week3_Exercise5" "-BC:/Users/seanw/OneDrive/Files/Master EXPH/Master Year 1/Modeling and Simulation/homework/Week3_Exercise5/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/seanw/OneDrive/Files/Master EXPH/Master Year 1/Modeling and Simulation/homework/Week3_Exercise5/build/MC_simulation_NPT.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

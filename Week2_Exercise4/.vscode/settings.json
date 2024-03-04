@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "mt19937.h": "c",
+    "inttypes.h": "c",
+    "cout.h": "c",
+    "cmath": "c"
+  }
+}

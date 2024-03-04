@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/seanw/OneDrive/Files/Master EXPH/Master Year 1/Modeling and Simulation/homework/Week2_Exercise4/build",
+  "command": "C:\\PROGRA~1\\MICROS~3\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\monte_carlo_simulation_of_hard_spheres.dir\\main.c.obj -c \"C:\\Users\\seanw\\OneDrive\\Files\\Master EXPH\\Master Year 1\\Modeling and Simulation\\homework\\Week2_Exercise4\\main.c\"",
+  "file": "C:\\Users\\seanw\\OneDrive\\Files\\Master EXPH\\Master Year 1\\Modeling and Simulation\\homework\\Week2_Exercise4\\main.c",
+  "output": "CMakeFiles\\monte_carlo_simulation_of_hard_spheres.dir\\main.c.obj"
+}
+]
